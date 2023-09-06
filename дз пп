@@ -1,0 +1,14 @@
+Print("Введите первое число,действие и второе число")
+a=int(imptut())
+b=imput()
+c=int(imput())
+if b=="+":
+Print(a+b)
+if b=="-":
+print(a-b)
+if b=="/":
+print(a/b)
+if b=="*":
+print(a*b)
+else:
+print("Не правильный ввод")
