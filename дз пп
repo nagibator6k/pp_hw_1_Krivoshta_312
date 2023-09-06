@@ -1,9 +1,9 @@
-Print("Введите первое число,действие и второе число")
-a=int(imptut())
-b=imput()
-c=int(imput())
+print("Введите первое число,действие и второе число")
+a=int(inptut())
+b=input()
+c=int(input())
 if b=="+":
-Print(a+b)
+print(a+b)
 if b=="-":
 print(a-b)
 if b=="/":
